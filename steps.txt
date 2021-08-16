@@ -1,0 +1,7 @@
+pipenv steps
+
+postgres docker steps
+citext extension add step
+
+create super user for admin usgae
+
